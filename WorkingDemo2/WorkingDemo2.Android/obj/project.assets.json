@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\aa\\Xamarin\\SimpleXapp\\WorkingDemo2\\WorkingDemo2.Android\\WorkingDemo2.Android.csproj",
+      "projectUniqueName": "c:\\aa\\Repositories\\SimpleXapp\\WorkingDemo2\\WorkingDemo2.Android\\WorkingDemo2.Android.csproj",
       "projectName": "WorkingDemo2.Android",
-      "projectPath": "c:\\aa\\Xamarin\\SimpleXapp\\WorkingDemo2\\WorkingDemo2.Android\\WorkingDemo2.Android.csproj",
+      "projectPath": "c:\\aa\\Repositories\\SimpleXapp\\WorkingDemo2\\WorkingDemo2.Android\\WorkingDemo2.Android.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "c:\\aa\\Xamarin\\SimpleXapp\\WorkingDemo2\\WorkingDemo2.Android\\obj\\",
+      "outputPath": "c:\\aa\\Repositories\\SimpleXapp\\WorkingDemo2\\WorkingDemo2.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -729,8 +729,8 @@
       "frameworks": {
         "monoandroid80": {
           "projectReferences": {
-            "c:\\aa\\Xamarin\\SimpleXapp\\WorkingDemo2\\WorkingDemo2\\WorkingDemo2.csproj": {
-              "projectPath": "c:\\aa\\Xamarin\\SimpleXapp\\WorkingDemo2\\WorkingDemo2\\WorkingDemo2.csproj"
+            "c:\\aa\\Repositories\\SimpleXapp\\WorkingDemo2\\WorkingDemo2\\WorkingDemo2.csproj": {
+              "projectPath": "c:\\aa\\Repositories\\SimpleXapp\\WorkingDemo2\\WorkingDemo2\\WorkingDemo2.csproj"
             }
           }
         }

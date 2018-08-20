@@ -755,11 +755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\aa\\Xamarin\\SimpleXapp\\WorkingDemo2\\WorkingDemo2.iOS\\WorkingDemo2.iOS.csproj",
+      "projectUniqueName": "c:\\aa\\Repositories\\SimpleXapp\\WorkingDemo2\\WorkingDemo2.iOS\\WorkingDemo2.iOS.csproj",
       "projectName": "WorkingDemo2.iOS",
-      "projectPath": "c:\\aa\\Xamarin\\SimpleXapp\\WorkingDemo2\\WorkingDemo2.iOS\\WorkingDemo2.iOS.csproj",
+      "projectPath": "c:\\aa\\Repositories\\SimpleXapp\\WorkingDemo2\\WorkingDemo2.iOS\\WorkingDemo2.iOS.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "c:\\aa\\Xamarin\\SimpleXapp\\WorkingDemo2\\WorkingDemo2.iOS\\obj\\",
+      "outputPath": "c:\\aa\\Repositories\\SimpleXapp\\WorkingDemo2\\WorkingDemo2.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -776,8 +776,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "c:\\aa\\Xamarin\\SimpleXapp\\WorkingDemo2\\WorkingDemo2\\WorkingDemo2.csproj": {
-              "projectPath": "c:\\aa\\Xamarin\\SimpleXapp\\WorkingDemo2\\WorkingDemo2\\WorkingDemo2.csproj"
+            "c:\\aa\\Repositories\\SimpleXapp\\WorkingDemo2\\WorkingDemo2\\WorkingDemo2.csproj": {
+              "projectPath": "c:\\aa\\Repositories\\SimpleXapp\\WorkingDemo2\\WorkingDemo2\\WorkingDemo2.csproj"
             }
           }
         }

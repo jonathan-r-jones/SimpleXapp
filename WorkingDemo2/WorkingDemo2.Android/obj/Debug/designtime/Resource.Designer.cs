@@ -31,8 +31,8 @@ namespace WorkingDemo2.Droid
 		public partial class Drawable
 		{
 			
-			// aapt resource value: 0
-			public static int icon = 0;
+			// aapt resource value: 0x7F010002
+			public const int icon = 2130771970;
 			
 			static Drawable()
 			{
@@ -47,14 +47,14 @@ namespace WorkingDemo2.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0
-			public static int myButton = 0;
+			// aapt resource value: 0x7F020002
+			public const int myButton = 2130837506;
 			
-			// aapt resource value: 0
-			public static int sliding_tabs = 0;
+			// aapt resource value: 0x7F020003
+			public const int sliding_tabs = 2130837507;
 			
-			// aapt resource value: 0
-			public static int toolbar = 0;
+			// aapt resource value: 0x7F020004
+			public const int toolbar = 2130837508;
 			
 			static Id()
 			{
@@ -69,14 +69,14 @@ namespace WorkingDemo2.Droid
 		public partial class Layout
 		{
 			
-			// aapt resource value: 0
-			public static int Main = 0;
+			// aapt resource value: 0x7F030002
+			public const int Main = 2130903042;
 			
-			// aapt resource value: 0
-			public static int Tabbar = 0;
+			// aapt resource value: 0x7F030003
+			public const int Tabbar = 2130903043;
 			
-			// aapt resource value: 0
-			public static int Toolbar = 0;
+			// aapt resource value: 0x7F030004
+			public const int Toolbar = 2130903044;
 			
 			static Layout()
 			{
@@ -91,8 +91,8 @@ namespace WorkingDemo2.Droid
 		public partial class Mipmap
 		{
 			
-			// aapt resource value: 0
-			public static int Icon = 0;
+			// aapt resource value: 0x7F040002
+			public const int Icon = 2130968578;
 			
 			static Mipmap()
 			{
@@ -107,11 +107,11 @@ namespace WorkingDemo2.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0
-			public static int app_name = 0;
+			// aapt resource value: 0x7F050003
+			public const int app_name = 2131034115;
 			
-			// aapt resource value: 0
-			public static int hello = 0;
+			// aapt resource value: 0x7F050002
+			public const int hello = 2131034114;
 			
 			static String()
 			{
@@ -126,14 +126,14 @@ namespace WorkingDemo2.Droid
 		public partial class Style
 		{
 			
-			// aapt resource value: 0
-			public static int AppCompatDialogStyle = 0;
+			// aapt resource value: 0x7F060004
+			public const int AppCompatDialogStyle = 2131099652;
 			
-			// aapt resource value: 0
-			public static int MainTheme = 0;
+			// aapt resource value: 0x7F060002
+			public const int MainTheme = 2131099650;
 			
-			// aapt resource value: 0
-			public static int MainTheme_Base = 0;
+			// aapt resource value: 0x7F060003
+			public const int MainTheme_Base = 2131099651;
 			
 			static Style()
 			{

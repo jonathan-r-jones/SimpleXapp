@@ -7,10 +7,10 @@
     <ContentPage.Content>
         <StackLayout>
             <Label 
-                Text="Hello World Jun-12-2018" 
+                Text="Hello World Aug-20-2018" 
                 FontSize="Micro"/>
             <Label 
-                Text="AirWatch test app." 
+                Text="Simple Xapp - new prov profile" 
                 FontSize="Large"
                 FontAttributes="Bold"/>
             <Button Text="Go to Page 2" Clicked="Button_Clicked"/>
